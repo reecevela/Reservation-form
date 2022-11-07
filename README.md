@@ -1,4 +1,7 @@
 # Reservation-form
+
+[Click Here](https://reecevela.github.com/Reservation-form) to try out the form
+
 A reservation form that validates an email, phone number and several fields during the form entry and at submission that I made for a Client-Side Scripting class but I went above and beyond for.
 
 Originally we were only supposed to validate the email pattern and that all the entries had been filled out. We also only needed to validate on the form submission.
